@@ -1,0 +1,81 @@
+{
+    "admins": [
+      {
+        "_id": {
+          "$oid": "645f53a7e7dfe78dfe185724"
+        },
+        "name": "John Doe",
+        "phone_number": "1234567890",
+        "email_id": "johndoe@example.com",
+        "role": "Super Admin",
+        "school_id": {
+          "$oid": "645f53a7e7dfe78dfe185722"
+        },
+        "createdAt": {
+          "$date": "2023-06-15T08:30:45.123Z"
+        },
+        "updatedAt": {
+          "$date": "2023-06-15T08:30:45.123Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "645f53a7e7dfe78dfe185725"
+        },
+        "name": "Alice Smith",
+        "phone_number": "9876543210",
+        "email_id": "alicesmith@example.com",
+        "role": "Admin",
+        "school_id": {
+          "$oid": "645f53a7e7dfe78dfe185722"
+        },
+        "createdAt": {
+          "$date": "2023-06-16T09:45:30.456Z"
+        },
+        "updatedAt": {
+          "$date": "2023-06-16T09:45:30.456Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "645f53a7e7dfe78dfe185726"
+        },
+        "name": "Bob Johnson",
+        "phone_number": "5555555555",
+        "email_id": "bob@example.com",
+        "role": "Admin",
+        "school_id": {
+          "$oid": "645f53a7e7dfe78dfe185723"
+        },
+        "createdAt": {
+          "$date": "2023-06-17T10:15:20.789Z"
+        },
+        "updatedAt": {
+          "$date": "2023-06-17T10:15:20.789Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "645f53a7e7dfe78dfe185727"
+        },
+        "name": "Eva Green",
+        "phone_number": "3333333333",
+        "email_id": "eva@example.com",
+        "role": "Management Staff",
+        "school_id": {
+          "$oid": "645f53a7e7dfe78dfe185723"
+        },
+        "createdAt": {
+          "$date": "2023-06-18T11:20:15.987Z"
+        },
+        "updatedAt": {
+          "$date": "2023-06-18T11:20:15.987Z"
+        },
+        "__v": 0
+      }
+    ]
+  }
+  
